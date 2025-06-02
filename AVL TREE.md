@@ -1,13 +1,4 @@
-# Experiment 10(a): AVL Tree
-
-## Aim
-To write a Python program to construct an AVL tree and print the nodes of it using the appropriate packages and built-in functions.
-
----
-
-## Algorithm
-
-1. Start the program.# Exp No : 16
+# Exp No : 16
 # AVL tree
 
 ## AIM :
@@ -52,22 +43,3 @@ L=[10 ,20, 30, 40, 50, 25]
 
 Thus the construction an AVL tree using the elements 10, 20, 30, 40, 50, and 25, and print the nodes using appropriate built-in functions was successfully executed.
 
- dictionary representation of an AVL tree.
-3. Define a function `Construct_AVL(L)` to:
-   - Create an AVL tree from the list `L`.
-   - Get and print the dictionary tree using `getDictTree(tree)`.
-4. Define a list `L` with integer values.
-5. Call `Construct_AVL(L)` to build the tree and print the result.
-6. End the program.
-
----
-
-## Program
-
-```
-
-```
-
-## OUTPUT
-
-## RESULT
